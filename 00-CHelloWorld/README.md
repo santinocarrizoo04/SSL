@@ -1,3 +1,3 @@
 Readme de la carpeta 00-CHelloWorld.
 
-Compilador seleccionado > C11
+Compilé con el standar C11
